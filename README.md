@@ -1,7 +1,6 @@
 # langchain-chains
 
-LangChain chain examples (simple, sequential, parallel, conditional), adapted from
-[campusx-official/langchain-chains](https://github.com/campusx-official/langchain-chains)
+LangChain chain examples (simple, sequential, parallel, conditional), 
 to run on [OpenRouter](https://openrouter.ai) with a single `OPENROUTER_API_KEY`.
 
 ## Setup
